@@ -7,14 +7,14 @@ newmtl blw_body
   Kd 0 0 0
   Ks 0 0 0
   illum 2
-  map_Kd images\bl_whale.TIF
+  map_Kd bl_whale.TIF
 
 newmtl blw_iris
   Ka 0 0 0
   Kd 0 0 0
   Ks 0 0 0
   illum 2
-  map_Kd images\eye_brn1.TIF
+  map_Kd eye_brn1.TIF
 
 newmtl blw_eye
   Ka 0 0 0
